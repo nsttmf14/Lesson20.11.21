@@ -144,7 +144,7 @@ namespace homework_lottery
             }
             return data;
         }
-        static readonly string PathToOut = @"..\..\Files\output.txt";
+        static readonly string PathToOut = @"..\..\Files\Winners.txt";
         static void WriteToPath(string str)
         {
             string sout = "";
