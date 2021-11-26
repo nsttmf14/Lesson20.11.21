@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labs", "Lesson20.11.21\labs.csproj", "{5F03DECA-C974-4F56-B718-CDCB4D5F34FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework lottery", "homework lottery\homework lottery.csproj", "{9DE55557-BC79-487B-B802-62D3069D4ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F03DECA-C974-4F56-B718-CDCB4D5F34FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F03DECA-C974-4F56-B718-CDCB4D5F34FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F03DECA-C974-4F56-B718-CDCB4D5F34FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F03DECA-C974-4F56-B718-CDCB4D5F34FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE55557-BC79-487B-B802-62D3069D4ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE55557-BC79-487B-B802-62D3069D4ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE55557-BC79-487B-B802-62D3069D4ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE55557-BC79-487B-B802-62D3069D4ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99DBE8F-BD9C-40ED-AB26-B19F70C48112}
+	EndGlobalSection
+EndGlobal
